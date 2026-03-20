@@ -1,1 +1,1 @@
-puts 'Hello, World! from A'
+puts 'Hello, World! from A and B'
