@@ -1,1 +1,1 @@
-puts 'Hello, Git!'
+puts 'Hello, World! from B'
